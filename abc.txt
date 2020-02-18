@@ -1,0 +1,7 @@
+1) Python
+2) C
+3) C++
+4) Java
+5) Android
+6) iOS
+7) Angular
